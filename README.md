@@ -22,7 +22,8 @@ By utilizing a "Vanilla Tech Stack," this project achieves lightning-fast load t
 ```text
 └── LearnSphere/
     └── index.html  # Single-file source containing Structure, Styles, and Logic
-    
+```
+   
 ## 👥 Project Team: Zen4
 Team Lead
 Sumedha Chowdhury
