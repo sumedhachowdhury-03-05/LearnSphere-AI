@@ -1,16 +1,9 @@
 # 🎓 LearnSphere
-> **AI-Powered Code Explainer & Academic Notes Hub**
-> *Bridging the gap between complex code logic and student understanding through intuitive AI simulations.*
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Architecture](https://img.shields.io/badge/Architecture-Single--File-success?style=for-the-badge)
+AI-Powered Code Explainer & Academic Notes Hub Bridging the gap between complex code logic and student understanding through intuitive AI simulations.
 
 ## 🌟 Overview
-**LearnSphere** is an elite, high-performance web platform designed to simplify the learning curve for computer science students. It features a sophisticated **AI Code Explainer** that breaks down programming syntax into plain language and a **Smart Notes Hub** for organized academic management.
-
-Built with a **"Vanilla-First"** philosophy, this project achieves a premium UI/UX experience using purely native web technologies. By keeping the entire application within a single-file architecture, LearnSphere ensures zero dependencies and lightning-fast execution.
+LearnSphere is a high-performance web platform designed to simplify the learning curve for computer science students. It features a sophisticated AI Code Explainer that breaks down programming syntax into plain language and a Smart Notes Hub for organized academic management.
+By utilizing a "Vanilla Tech Stack," this project achieves lightning-fast load times and a premium UI/UX without relying on external frameworks like React or Bootstrap.
 
 ## ✨ Key Features
 * **AI Logic Engine:** A simulated environment providing line-by-line analysis of complex code (e.g., Recursion).
@@ -30,7 +23,7 @@ Built with a **"Vanilla-First"** philosophy, this project achieves a premium UI/
 └── LearnSphere/
     └── index.html  # Single-file source containing Structure, Styles, and Logic
     
-👥 Project Team: Zen4
+## 👥 Project Team: Zen4
 Team Lead
 Sumedha Chowdhury
 
