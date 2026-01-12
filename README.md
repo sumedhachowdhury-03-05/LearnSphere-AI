@@ -26,11 +26,13 @@ By utilizing a "Vanilla Tech Stack," this project achieves lightning-fast load t
    
 ## 👥 Project Team: Zen4
 **Team Lead:**
+
 Sumedha Chowdhury
 
-Team Members:
+**Team Members:**
 
 Anyesha Maity
 
 Triparna Samanta
+
 Rumannah Yesmin
